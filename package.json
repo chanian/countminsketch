@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name":    "countminsketch",
+  "version": "0.0.1",
+  "dependencies": {
+    "murmurhash": "0.0.2"
+  },
+  "devDependencies": {
+    "should": "1.1.0",
+    "mocha": ""
+  },
+  "scripts": {
+    "run": "node runner.js",
+    "test": "mocha"
+  }
+}
